@@ -1,0 +1,8 @@
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\bin\Debug\CodeTestApp.exe
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\bin\Debug\CodeTestApp.pdb
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\obj\Debug\PhillipKuhrt.VoTra.Syntax.UserControl1.resources
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\obj\Debug\ResGen.read.1.tlog
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\obj\Debug\ResGen.write.1.tlog
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\obj\Debug\CodeTestApp.exe
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\CodeTestApp\obj\Debug\CodeTestApp.pdb

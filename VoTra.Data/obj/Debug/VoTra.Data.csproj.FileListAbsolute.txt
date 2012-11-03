@@ -1,0 +1,5 @@
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\VoTra.Data\bin\Debug\VoTra.Data.dll
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\VoTra.Data\bin\Debug\VoTra.Data.pdb
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\VoTra.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\VoTra.Data\obj\Debug\VoTra.Data.dll
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\Votra\Code\VoTra.Data\obj\Debug\VoTra.Data.pdb

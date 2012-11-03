@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+  <DATA Version="1.0.0">
+    <User UserID="0" Name="Heinz Peter Müller" SymbolID="24" />
+    <Folder Title="Englisch" Language="" SymbolID="43" ColorR="128" ColorG="255" ColorB="0">
+      <Folder Title="Green Line New" Language="" SymbolID="5">
+        <Folder Title="1" Language="" SymbolID="3">
+          <Word Date_Changed="2010-10-15T12:58:06.8972+02:00" Date_Created="2010-10-14T18:01:53.6926+02:00" Text_German="Hallo#Hi" Text_OtherLanguage="Hello#Hi" Info="" Info_German="" Info_OtherLanguage="" />
+        </Folder>
+        <Folder Title="2" Language="" SymbolID="3" />
+        <Folder Title="3" Language="" SymbolID="3" />
+      </Folder>
+      <Folder Title="Green Line" Language="" SymbolID="5">
+        <Folder Title="1" Language="" SymbolID="3" />
+      </Folder>
+    </Folder>
+    <Folder Title="Französisch" Language="" SymbolID="36" ColorR="0" ColorG="128" ColorB="255">
+      <Folder Title="Decouvertes" Language="" SymbolID="5" />
+    </Folder>
+  </DATA>
+</ROOT>

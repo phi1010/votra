@@ -1,0 +1,16 @@
+Die Icons stammen von:
+
+-David Hopkins von SEM Labs; Creative Commons (by) Lizenz (http://semlabs.co.uk/cv).
+-David Vignoni; GNU LGPL 2.1 (http://www.icon-king.com/projects/nuvola/).
+-Everaldo Coelho and YellowIcon; GNU LGPL 2.1 (http://www.everaldo.com/crystal/).
+-IconBuffet (http://www.IconBuffet.com)
+-Wikimedia Commons; GNU LGPL 2.1 (http://commons.wikimedia.org)
+
+Bei der Suche sehr geholfen hat die Website http://www.iconspedia.com.
+
+
+Teile des Codes wurden übernommen von:
+
+-Matthias Hertel; Creative Commons Attribution 2.0 Germany License (http://www.codeproject.com/KB/recipes/DiffAlgorithmCS.aspx)
+
+Bei der Suche sehr geholfen hat die Website http://www.codeproject.com.

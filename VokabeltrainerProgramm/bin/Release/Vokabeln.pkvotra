@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+  <DATA Version="1.0.0">
+    <Folder Title="Französisch" Language="Französisch" SymbolID="36" ColorR="0" ColorG="0" ColorB="255" />
+    <Folder Title="Englisch" Language="Englisch" SymbolID="43" ColorR="128" ColorG="255" ColorB="0">
+      <Folder Title="Green Line New" Language="" SymbolID="5">
+        <Folder Title="1" Language="" SymbolID="3">
+          <Folder Title="0_ let´s start" Language="" SymbolID="0">
+            <Folder Title="0_ let´s start" Language="" SymbolID="0">
+              <Word Date_Changed="2012-10-04T18:30:19.1235058+02:00" Date_Created="2010-10-10T21:02:50.6149198+02:00" Text_German="Lass(;t) uns anfangen!" Text_OtherLanguage="Let´s start!" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1245059+02:00" Date_Created="2010-10-10T21:04:34.1359198+02:00" Text_German="lass(;t) uns" Text_OtherLanguage="let( us;'s)" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1245059+02:00" Date_Created="2010-10-10T21:06:57.5659198+02:00" Text_German="lassen" Text_OtherLanguage="to let" Info="" Info_German="" Info_OtherLanguage="Infinitiv" />
+              <Word Date_Changed="2012-10-04T18:30:19.1245059+02:00" Date_Created="2010-10-10T21:09:42.5739198+02:00" Text_German="wir#uns" Text_OtherLanguage="us" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1245059+02:00" Date_Created="2010-10-10T21:10:00.1739198+02:00" Text_German="anfangen#starten" Text_OtherLanguage="to start" Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+            <Folder Title="1_ Hello" Language="" SymbolID="0">
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-10-10T21:11:15.6609198+02:00" Text_German="Hallo!" Text_OtherLanguage="Hello!" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-10-10T21:11:26.9059198+02:00" Text_German="Ich heiße ..." Text_OtherLanguage="My name is ..." Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Folder Title="2" Language="" SymbolID="3">
+          <Folder Title="Unit 2" Language="" SymbolID="34">
+            <Folder Title="Text &quot;Robin Hood and the silver arrow&quot;" Language="" SymbolID="2">
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Silber" Text_OtherLanguage="silver" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Nachricht(en;)#Neuigkeit(en;)" Text_OtherLanguage="news" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="spotten#spöttisch grinsen" Text_OtherLanguage="to sneer" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schlau#klug#intelligent" Text_OtherLanguage="clever" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="niemand" Text_OtherLanguage="nobody" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wettbewerb#Turnier" Text_OtherLanguage="competition" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bogenschießen" Text_OtherLanguage="archery" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="organisieren" Text_OtherLanguage="to organize" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Gewinner#Gewinnerin#Sieger#Siegerin" Text_OtherLanguage="winner" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Falle" Text_OtherLanguage="trap" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="verkleidet" Text_OtherLanguage="in disguise" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Verkleidung" Text_OtherLanguage="disguise" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Teilnehmer#Mitbewerber" Text_OtherLanguage="competitor" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Reaktion" Text_OtherLanguage="reaction" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Menschenmenge" Text_OtherLanguage="crowd" Info="" Info_German="" Info_OtherLanguage="A lot of people all together in one place." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Plattform#Tribüne#Bahnsteig" Text_OtherLanguage="platform" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Runde" Text_OtherLanguage="round" Info="" Info_German="" Info_OtherLanguage="One of the parts of a game or competition." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schießen (auf;)" Text_OtherLanguage="to shoot (at;)" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Ziel(scheibe;)" Text_OtherLanguage="target" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Finale" Text_OtherLanguage="final" Info="" Info_German="" Info_OtherLanguage="The last round in a competition or game." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Mittelpunkt der Zielscheibe" Text_OtherLanguage="bull's-eye" Info="" Info_German="" Info_OtherLanguage="The centre of the target." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Signal#Zeichen" Text_OtherLanguage="signal" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="flüchten#entkommen" Text_OtherLanguage="to escape" Info="" Info_German="" Info_OtherLanguage="He escaped at the last minute." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="nützlich" Text_OtherLanguage="useful" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="beschreiben" Text_OtherLanguage="to describe" Info="" Info_German="" Info_OtherLanguage="To say what sb or sth is like." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Ehefrau" Text_OtherLanguage="wife" Info="" Info_German="" Info_OtherLanguage="pl. wives" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Ehefrauen" Text_OtherLanguage="wives" Info="" Info_German="" Info_OtherLanguage="si. wife" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hinzufügen#addieren" Text_OtherLanguage="to add" Info="" Info_German="" Info_OtherLanguage="If you add 2 and 3, you get5." />
+            </Folder>
+            <Folder Title="A play" Language="" SymbolID="1">
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vor dem Haus" Text_OtherLanguage="in front of the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hinter dem Haus" Text_OtherLanguage="behind the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="auf dem Tisch" Text_OtherLanguage="on the table" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="die Brücke über den Fluss" Text_OtherLanguage="the bridge across the river" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="ins Haus hinein" Text_OtherLanguage="into the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="aus dem Haus heraus" Text_OtherLanguage="out of the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="innerhalb des Kreises" Text_OtherLanguage="inside the circle" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="außerhalb des Kreises" Text_OtherLanguage="outside the circle" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="um den Kreis herum" Text_OtherLanguage="round the circle" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hindurch" Text_OtherLanguage="through" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="im Haus" Text_OtherLanguage="in the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="zum Haus hin" Text_OtherLanguage="towards to the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vom Haus weg" Text_OtherLanguage="from the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="am Haus vorbei" Text_OtherLanguage="by the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="neben dem Hause" Text_OtherLanguage="next to the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="über dem Haus" Text_OtherLanguage="over the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="zwischen zwei HäUserIDn" Text_OtherLanguage="between two houses" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="unter dem Haus" Text_OtherLanguage="under the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="nahe des Hauses#in der Nähe des Hauses" Text_OtherLanguage="near by the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="oberhalb des Hauses" Text_OtherLanguage="above the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="unterhalb des Hauses" Text_OtherLanguage="below the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vom Tisch hinunter" Text_OtherLanguage="off the table" Info="" Info_German="" Info_OtherLanguage="hinunter-, herunter-(fallen)" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="gegenüber von" Text_OtherLanguage="opposite" Info="" Info_German="" Info_OtherLanguage="A is opposite B." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Fest(;ival)" Text_OtherLanguage="festival" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="erfinden" Text_OtherLanguage="to invent" Info="" Info_German="" Info_OtherLanguage="If you invent sth, you are the first person who thinks of it or makes it." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Rolle" Text_OtherLanguage="part" Info="" Info_German="" Info_OtherLanguage="What partdid  you play in the musical?" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Charakter#Figur" Text_OtherLanguage="character" Info="" Info_German="" Info_OtherLanguage="A person in a story or play." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Unterschied" Text_OtherLanguage="difference" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="verschieden" Text_OtherLanguage="different" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Relativsatz ohne Relativpronomen" Text_OtherLanguage="contact clause" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="markiert" Text_OtherLanguage="marked" Info="" Info_German="" Info_OtherLanguage="to marked -&gt; marked" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Definition#Festlegung" Text_OtherLanguage="definition" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kreuzworträtsel" Text_OtherLanguage="crossword#crosssword puzzle" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Satz" Text_OtherLanguage="clause" Info="" Info_German="Teil eines Satzgefüges" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Relativsatz" Text_OtherLanguage="relative clause" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Pronomen" Text_OtherLanguage="pronoun" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="relativ" Text_OtherLanguage="relative" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Relativpronomen" Text_OtherLanguage="relative pronoun" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Art#Sorte" Text_OtherLanguage="kind" Info="" Info_German="" Info_OtherLanguage="What kind of music do you like?" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="heiraten" Text_OtherLanguage="ti get married" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schließlich#zum Schluss" Text_OtherLanguage="in the end" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Mädchen" Text_OtherLanguage="maid" Info="" Info_German="Maid" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Maid" Text_OtherLanguage="maid" Info="" Info_German="Mädchen" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Appetit" Text_OtherLanguage="appetite" Info="" Info_German="" Info_OtherLanguage="People who have a big appetite eat a lot." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bruder" Text_OtherLanguage="friar" Info="" Info_German="Mönch" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Mönch" Text_OtherLanguage="friar" Info="" Info_German="Bruder" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Langbogen" Text_OtherLanguage="longbow" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="der#dem#den#die#das" Text_OtherLanguage="which" Info="" Info_German="Relativpronomen" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="dessen#deren" Text_OtherLanguage="whose" Info="" Info_German="Relativpronomen" Info_OtherLanguage="David has a brother whose name is Mark." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="fröhlich" Text_OtherLanguage="merry" Info="" Info_German="" Info_OtherLanguage="People who laugh a lot are merry." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="der#dem#den#die" Text_OtherLanguage="who" Info="" Info_German="Relativpronomen" Info_OtherLanguage="0 is the girl who comes from Erlangen." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="der#dem#den#die#das" Text_OtherLanguage="that" Info="" Info_German="Realtivpronomen" Info_OtherLanguage="Is 0 the girl that comes from Erlangen?" />
+            </Folder>
+            <Folder Title="---NAME NACHSCHAUEN---" Language="" SymbolID="1">
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Normanne#Normannin#normannisch" Text_OtherLanguage="Norman" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="erobern" Text_OtherLanguage="to conquer" Info="" Info_German="" Info_OtherLanguage="The Normans conquered England in 1066." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Sachse#Sächsin#sächsich" Text_OtherLanguage="Saxon" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kleinbauer" Text_OtherLanguage="peasant" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="populär#beliebt" Text_OtherLanguage="popular" Info="" Info_German="" Info_OtherLanguage="Everybody likes her - she's really popular." />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="jedenfalls#sowieso" Text_OtherLanguage="anyway" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schlimmer#schlechter" Text_OtherLanguage="worse" Info="" Info_German="" Info_OtherLanguage="good -&gt; worse -&gt; worst" />
+              <Word Date_Changed="2012-10-04T18:30:19.1255059+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schlimmste#schlechteste" Text_OtherLanguage="worst" Info="" Info_German="" Info_OtherLanguage="best &lt;-&gt; worst" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Baby#Säugling" Text_OtherLanguage="baby" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Boss#Chef" Text_OtherLanguage="boss" Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+          <Folder Title="Unit 3" Language="" SymbolID="34">
+            <Folder Title="Intro" Language="" SymbolID="1">
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="klingen" Text_OtherLanguage="to sound" Info="" Info_German="Your music ... so good." Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Hip-Hop" Text_OtherLanguage="hip-hop" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Jazz" Text_OtherLanguage="jazz" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Rock" Text_OtherLanguage="rock" Info="" Info_German="Musik" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="heutzutage" Text_OtherLanguage="these days" Info="" Info_German="Now, not in past." Info_OtherLanguage="Now, not in past." />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Klavier#Piano" Text_OtherLanguage="piano" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Techno" Text_OtherLanguage="techno" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="scharf sein auf;begeistert sein von" Text_OtherLanguage="to be keen on" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Sänger(in;)" Text_OtherLanguage="singer" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="scheinen" Text_OtherLanguage="to seem" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="erste Division" Text_OtherLanguage="Premiership" Info="" Info_German="vgl. Deutsche Bundesliga" Info_OtherLanguage="vgl. Deutsche Bundesliga" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bass" Text_OtherLanguage="bass" Info="" Info_German="reimt sich mit 'face'" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Trommel" Text_OtherLanguage="drum" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Schlagzeug" Text_OtherLanguage="drums" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="am meisten" Text_OtherLanguage="most of all" Info="" Info_German="More than other things." Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="nennen" Text_OtherLanguage="to call" Info="" Info_German="" Info_OtherLanguage="You can call me Mike." />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Hit" Text_OtherLanguage="hit" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="heißen#genannt werden" Text_OtherLanguage="to be called" Info="" Info_German="" Info_OtherLanguage="The dog is called Barker." />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="ganz" Text_OtherLanguage="whole" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="ausfüllen" Text_OtherLanguage="to fill in" Info="" Info_German="" Info_OtherLanguage="to complete" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Stück" Text_OtherLanguage="piece" Info="" Info_German="A piece of cake." Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="zweimal" Text_OtherLanguage="twice" Info="" Info_German="" Info_OtherLanguage="two times" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="allgemein" Text_OtherLanguage="general" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Detail#Einzelheit" Text_OtherLanguage="detail" Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+          <Folder Title="Focus 2 - Focus on food and drink" Language="" SymbolID="34">
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Vorspeise" Text_OtherLanguage="starter" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Tomate" Text_OtherLanguage="tomato" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Tomaten" Text_OtherLanguage="tomatoes" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Suppe" Text_OtherLanguage="soup" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="gemischt" Text_OtherLanguage="mixed" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Salat" Text_OtherLanguage="salad" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Schinken" Text_OtherLanguage="ham" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Nudeln" Text_OtherLanguage="pasta" Info="" Info_German="Pasta" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Haupt-" Text_OtherLanguage="main" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Gang" Text_OtherLanguage="course" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Steak" Text_OtherLanguage="steak" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Gericht" Text_OtherLanguage="dish" Info="" Info_German="Speise" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kartoffel" Text_OtherLanguage="potato" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kartoffeln" Text_OtherLanguage="potatoes" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Reis" Text_OtherLanguage="rice" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Nachspeise" Text_OtherLanguage="dessert" Info="" Info_German="Dessert" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Obst" Text_OtherLanguage="fruit" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Curry" Text_OtherLanguage="curry" Info="" Info_German="Gewürz o. Gericht" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="köstlich" Text_OtherLanguage="delicious" Info="" Info_German="" Info_OtherLanguage="Yammy!" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="traditionell" Text_OtherLanguage="traditional" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="in der Pfanne gebraten" Text_OtherLanguage="fried" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Spiegelei" Text_OtherLanguage="fried egg" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Schinkenspeck" Text_OtherLanguage="bacon" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wurst" Text_OtherLanguage="sausage" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Vegetarier(;in)" Text_OtherLanguage="vegetarian" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Toast" Text_OtherLanguage="toast" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Butter" Text_OtherLanguage="butter" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Marmelade" Text_OtherLanguage="marmelade" Info="" Info_German="von Zitrusfrüchten" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Orange" Text_OtherLanguage="orange" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Saft" Text_OtherLanguage="juice" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Erdbeere" Text_OtherLanguage="strawberry" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Marmelade" Text_OtherLanguage="jam" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hergestellt sein aus" Text_OtherLanguage="to be made of" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schmecken" Text_OtherLanguage="to taste" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="bitter" Text_OtherLanguage="bitter" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="bediene( dich;n Sie sich)" Text_OtherLanguage="help yourself" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Joghurt" Text_OtherLanguage="yoghurt" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="essen#trinken" Text_OtherLanguage="to have" Info="" Info_German="" Info_OtherLanguage="...breakfast, ...an egg, ...some orange juice" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Brötchen" Text_OtherLanguage="roll" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kellner#Bedienung" Text_OtherLanguage="waiter" Info="" Info_German="" Info_OtherLanguage="The man who brings you your food in a restaurant." />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="bestellen" Text_OtherLanguage="to order" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Fleisch" Text_OtherLanguage="meat" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wein" Text_OtherLanguage="wine" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bier" Text_OtherLanguage="beer" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Speisekarte#Menü" Text_OtherLanguage="menu" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Restaurant, das Speisen zum Mitnehmen verkauft" Text_OtherLanguage="takeaway" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Fliege" Text_OtherLanguage="fly" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="töten" Text_OtherLanguage="to kill" Info="" Info_German="" Info_OtherLanguage="" />
+          </Folder>
+        </Folder>
+        <Folder Title="6" Language="" SymbolID="3">
+          <Folder Title="01 Topic 1: Growing up" Language="" SymbolID="1">
+            <Folder Title="01 A: Responsibility only comes with age?" Language="" SymbolID="2">
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Minimum#Mindestmaß#minimal" Text_OtherLanguage="minimum" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Limit#Grenze#Beschränkung" Text_OtherLanguage="limit" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Zustimmung#Einwilligung" Text_OtherLanguage="consent" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Heirat#Ehe" Text_OtherLanguage="marriage" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="elterlich#Eltern-" Text_OtherLanguage="parental" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wahl" Text_OtherLanguage="election" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="kriminell#verbrecherisch" Text_OtherLanguage="criminal" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Spirituosen" Text_OtherLanguage="spirits" Info="" Info_German="" Info_OtherLanguage="(pl.)" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="verpflichtend#obligatorisch" Text_OtherLanguage="compulsory" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vorausgesetzt, dass ..." Text_OtherLanguage="provided that ..." Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="jmdn verklagen" Text_OtherLanguage="to take sb to court" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="kaufen#erwerben" Text_OtherLanguage="to purchase" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="sich unterscheiden#abweichen" Text_OtherLanguage="to differ" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="konsumieren#verbrauchen" Text_OtherLanguage="to consume" Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Folder Title="3" Language="" SymbolID="3" />
+        <Folder Title="7" Language="" SymbolID="3">
+          <Folder Title="05 Religion in the US and UK" Language="" SymbolID="0">
+            <Folder Title="Thematic vocabulary" Language="" SymbolID="0">
+              <Folder Title="Religion in the US" Language="" SymbolID="0">
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:39:29.5772982+02:00" Text_German="Abtreibung" Text_OtherLanguage="abortion" Info="Act of ending a pregnancy so that the baby is not born alive; There are many anti-abortion campaigners on the religious right." Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:40:26.5484982+02:00" Text_German="Agenda" Text_OtherLanguage="agenda" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:40:35.0660982+02:00" Text_German="Zusatzartikel" Text_OtherLanguage="amendment" Info="" Info_German="in einer Verfassung; einem Gesetz" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:41:15.4376982+02:00" Text_German="Teil#Zweig(;stelle)" Text_OtherLanguage="branch" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:41:44.0312982+02:00" Text_German="Wohltätigkeitsorganisation" Text_OtherLanguage="charity" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:42:02.6876982+02:00" Text_German="städtisch#Stadt-" Text_OtherLanguage="civic" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:43:42.7760982+02:00" Text_German="Mitgefühl#mitfühlend" Text_OtherLanguage="compassion" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:44:07.7348982+02:00" Text_German="Vorstellung#Prinzip" Text_OtherLanguage="concept" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:45:03.2384982+02:00" Text_German="durchführen" Text_OtherLanguage="to conduct" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:45:40.7084982+02:00" Text_German="Gewissen" Text_OtherLanguage="conscience" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:45:51.5024982+02:00" Text_German="konvertieren" Text_OtherLanguage="to convert" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:46:07.3044982+02:00" Text_German="Kreationismus#Schöpfungslehre" Text_OtherLanguage="creationism" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:46:34.4472982+02:00" Text_German="(;eine Rede) halten#liefern" Text_OtherLanguage="to deliver" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:47:24.0852982+02:00" Text_German="Konfessionsgemeinschaft" Text_OtherLanguage="denomination" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:47:44.3172982+02:00" Text_German="jdn(;.) diskriminieren" Text_OtherLanguage="to discriminate against sb" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:48:21.5220982+02:00" Text_German="Vielfalt" Text_OtherLanguage="diversity" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:48:45.7944982+02:00" Text_German="göttlich" Text_OtherLanguage="divine" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:48:52.8756982+02:00" Text_German="betonen" Text_OtherLanguage="to emphasize" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:49:04.0128982+02:00" Text_German="gleich" Text_OtherLanguage="equal" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:49:18.7536982+02:00" Text_German="wichtig#unverzichtbar" Text_OtherLanguage="essential" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:49:36.5020982+02:00" Text_German="verbieten" Text_OtherLanguage="to forbid" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:49:47.6860982+02:00" Text_German="Fundamentalismus" Text_OtherLanguage="fundalism" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:49:58.6516982+02:00" Text_German="zu Hause unterrichtet werden" Text_OtherLanguage="to be homeschooled" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:50:28.0408982+02:00" Text_German="Antrittsrede" Text_OtherLanguage="inaugural adress" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:50:53.9356982+02:00" Text_German="Angelegenheit" Text_OtherLanguage="issue" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:51:40.1264982+02:00" Text_German="wörtlich" Text_OtherLanguage="literal" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:52:02.5736982+02:00" Text_German="seinen Einfluss geltend machen" Text_OtherLanguage="to lobby" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:52:20.7776982+02:00" Text_German="engstirnig" Text_OtherLanguage="narrow-minded" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:52:35.2376982+02:00" Text_German="mit jdm(;.) über etw(;.) verhandeln" Text_OtherLanguage="to negotiate with sb for sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:56:51.9812982+02:00" Text_German="Wahrnehmung#Auffassung" Text_OtherLanguage="perception" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:57:28.6256982+02:00" Text_German="jdn(;.) wegen etw(.;) (verfolgen;unterdrücken)" Text_OtherLanguage="to persecute sb for sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:58:18.5132982+02:00" Text_German="jdn(;.) verbieten, etw(;.) zu tun" Text_OtherLanguage="to prohibit sb from doing sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:59:23.4860982+02:00" Text_German="Wurzel" Text_OtherLanguage="root" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:59:30.3800982+02:00" Text_German="ländlich" Text_OtherLanguage="rural" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:59:38.0852982+02:00" Text_German="etw(;.) suchen" Text_OtherLanguage="to seek sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T19:59:49.7850982+02:00" Text_German="jdn(;.) wegen etw(;.) verklagen" Text_OtherLanguage="to sue sb for sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T20:00:12.7938982+02:00" Text_German="einzigartig" Text_OtherLanguage="unique" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T20:00:22.3554982+02:00" Text_German="aufrechterhalten#wahren" Text_OtherLanguage="to uphold" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T20:00:40.1070982+02:00" Text_German="freiwillig" Text_OtherLanguage="voluntary" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T20:00:52.9134982+02:00" Text_German="vergeuden#verschwenden" Text_OtherLanguage="to waste" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T20:01:12.1948982+02:00" Text_German="Sozialhilfe" Text_OtherLanguage="welfare" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-12T20:01:27.7468982+02:00" Text_German="Anbetung#Gottesdienst" Text_OtherLanguage="worship" Info="" Info_German="" Info_OtherLanguage="" />
+              </Folder>
+            </Folder>
+          </Folder>
+        </Folder>
+      </Folder>
+      <Word Date_Changed="2012-10-04T18:30:19.126506+02:00" Date_Created="2010-10-20T13:51:05.3522+02:00" Text_German="" Text_OtherLanguage="Best(f" Info="" Info_German="" Info_OtherLanguage="" />
+    </Folder>
+  </DATA>
+</ROOT>

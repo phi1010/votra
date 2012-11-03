@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+  <DATA Version="1.0.0">
+    <User UserID="0" Name="Mama" SymbolID="16" />
+    <User UserID="1" Name="Phillip" SymbolID="41" />
+    <User UserID="2" Name="Sophie" SymbolID="17" />
+    <User UserID="3" Name="Natalie" SymbolID="23" />
+    <Folder Title="Französisch" Language="Französisch" SymbolID="36" ColorR="0" ColorG="0" ColorB="255" />
+    <Folder Title="Englisch" Language="Englisch" SymbolID="43" ColorR="128" ColorG="255" ColorB="0">
+      <Folder Title="Green Line New" Language="" SymbolID="5">
+        <Folder Title="1" Language="" SymbolID="3">
+          <Folder Title="0_ let´s start" Language="" SymbolID="0">
+            <Folder Title="0_ let´s start" Language="" SymbolID="0">
+              <Word Date_Changed="2012-10-04T18:23:55.4425605+02:00" Date_Created="2010-10-10T21:02:50.6149198+02:00" Text_German="Lass(;t) uns anfangen!" Text_OtherLanguage="Let´s start!" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4425605+02:00" Date_Created="2010-10-10T21:04:34.1359198+02:00" Text_German="lass(;t) uns" Text_OtherLanguage="let( us;'s)" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:08:59.4236982+02:00" Language_Assignment="true" Text_Answer="let's" Text_Assignment="lasst uns" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4615616+02:00" Date_Created="2010-10-10T21:06:57.5659198+02:00" Text_German="lassen" Text_OtherLanguage="to let" Info="" Info_German="" Info_OtherLanguage="Infinitiv">
+                <Result Correct="true" DateTime="2010-10-12T20:03:43.4470982+02:00" Language_Assignment="true" Text_Answer="to let" Text_Assignment="lassen" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4615616+02:00" Date_Created="2010-10-10T21:09:42.5739198+02:00" Text_German="wir#uns" Text_OtherLanguage="us" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4615616+02:00" Date_Created="2010-10-10T21:10:00.1739198+02:00" Text_German="anfangen#starten" Text_OtherLanguage="to start" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:10:59.1072982+02:00" Language_Assignment="false" Text_Answer="starten" Text_Assignment="to start" UserID="1" />
+              </Word>
+            </Folder>
+            <Folder Title="1_ Hello" Language="" SymbolID="0">
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-10-10T21:11:15.6609198+02:00" Text_German="Hallo!" Text_OtherLanguage="Hello!" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-10-10T21:11:26.9059198+02:00" Text_German="Ich heiße ..." Text_OtherLanguage="My name is ..." Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Folder Title="2" Language="" SymbolID="3">
+          <Folder Title="Unit 2" Language="" SymbolID="34">
+            <Folder Title="Text &quot;Robin Hood and the silver arrow&quot;" Language="" SymbolID="2">
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Silber" Text_OtherLanguage="silver" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-13T18:40:38.6121067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:43:23.7599067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:50:41.4737067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:24:50.5305041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:15:04.4155039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Nachricht(en;)#Neuigkeit(en;)" Text_OtherLanguage="news" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:36:33.7331067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:51:24.6977067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:23:49.8823041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:11:23.9765039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:37:32.7001297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="spotten#spöttisch grinsen" Text_OtherLanguage="to sneer" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-13T18:39:11.9147067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-13T18:39:39.8207067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-13T18:43:55.6437067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:44:38.8525067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:50:31.5377067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:25:00.8565041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:45:34.3461041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:12:10.9589039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:39:32.0159297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schlau#klug#intelligent" Text_OtherLanguage="clever" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:36:54.3539067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:48:54.0485067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:20:28.6885041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:14:33.3111039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:36:53.4853297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="niemand" Text_OtherLanguage="nobody" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:35:35.7979067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:45:39.6457067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:25:18.1077041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:14:13.0179039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:37:20.4397297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wettbewerb#Turnier" Text_OtherLanguage="competition" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:37:13.7903067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:47:07.5599067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:24:27.6473041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:43:04.0355041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:41:09.4261297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bogenschießen" Text_OtherLanguage="archery" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:42:22.0021067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:45:54.3551067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:23:42.8791041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-01-07T19:38:22.2421297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:40:30.5421297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-10-12T20:04:42.6560982+02:00" Language_Assignment="true" Text_Answer="archery" Text_Assignment="Bogenschießen" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:11:07.7004982+02:00" Language_Assignment="true" Text_Answer="archery" Text_Assignment="Bogenschießen" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="organisieren" Text_OtherLanguage="to organize" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:41:34.8457067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:51:00.2861067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:25:53.7033041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:38:00.3265297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Gewinner#Gewinnerin#Sieger#Siegerin" Text_OtherLanguage="winner" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:35:44.2367067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:49:07.5089067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:25:27.0765041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:32:46.4325041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:11:57.8405039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:38:14.1625297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Falle" Text_OtherLanguage="trap" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:37:42.2879067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:49:48.7973067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:20:58.1549041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:13:00.7193039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="verkleidet" Text_OtherLanguage="in disguise" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:40:16.7745067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:50:02.5085067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:20:14.7433041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:14:25.4967039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Verkleidung" Text_OtherLanguage="disguise" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:38:10.8619067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:46:17.6435067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:26:22.0461041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:13:34.6935039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:39:10.7229297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4635617+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Teilnehmer#Mitbewerber" Text_OtherLanguage="competitor" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:43:16.0703067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:49:18.6149067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:21:51.8475041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:26:12.3441041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:38:50.6671297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Reaktion" Text_OtherLanguage="reaction" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:38:31.2175067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:48:45.0953067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:22:22.5463041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:32:40.5359041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:11:50.6189039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Menschenmenge" Text_OtherLanguage="crowd" Info="" Info_German="" Info_OtherLanguage="A lot of people all together in one place.">
+                <Result Correct="true" DateTime="2009-12-13T18:37:34.9259067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:47:52.4167067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:25:36.0765041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:41:18.0829297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Plattform#Tribüne#Bahnsteig" Text_OtherLanguage="platform" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:37:24.9899067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:47:16.3855067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:23:07.0963041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:14:02.5359039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:36:40.5531297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Runde" Text_OtherLanguage="round" Info="" Info_German="" Info_OtherLanguage="One of the parts of a game or competition.">
+                <Result Correct="true" DateTime="2009-12-13T18:40:24.9321067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:49:41.7785067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:24:40.3605041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:13:42.2895039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:38:57.7293297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schießen (auf;)" Text_OtherLanguage="to shoot (at;)" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:39:31.0859067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:47:41.7319067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:22:42.3871041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:24:02.9393041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-01-07T19:39:44.7755297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:40:39.6513297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Ziel(scheibe;)" Text_OtherLanguage="target" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-13T18:36:16.7927067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-13T18:37:56.1055067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:39:54.4679067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:49:02.3621067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:21:26.9823041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:37:20.6053041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:13:08.9861039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:40:04.1639297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Finale" Text_OtherLanguage="final" Info="" Info_German="" Info_OtherLanguage="The last round in a competition or game.">
+                <Result Correct="true" DateTime="2009-12-13T18:38:17.8183067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:48:00.8239067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:24:13.2341041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:46:26.7595041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:13:22.8221039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:39:58.0499297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-10-12T20:03:52.3688982+02:00" Language_Assignment="true" Text_Answer="finale" Text_Assignment="Finale" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:04:21.0692982+02:00" Language_Assignment="false" Text_Answer="Finale" Text_Assignment="final" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Mittelpunkt der Zielscheibe" Text_OtherLanguage="bull's-eye" Info="" Info_German="" Info_OtherLanguage="The centre of the target.">
+                <Result Correct="true" DateTime="2009-12-13T18:42:04.4689067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-13T18:46:36.1751067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:46:52.5851067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:22:07.9455041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:12:53.1857039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Signal#Zeichen" Text_OtherLanguage="signal" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:43:44.9589067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:47:24.4027067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:23:18.7795041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="flüchten#entkommen" Text_OtherLanguage="to escape" Info="" Info_German="" Info_OtherLanguage="He escaped at the last minute.">
+                <Result Correct="false" DateTime="2009-12-13T18:41:22.4289067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-13T18:44:16.5777067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:44:29.6965067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:50:13.5989067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:21:09.9171041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:11:37.7657039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-01-07T19:37:07.2589297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:40:51.0193297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="nützlich" Text_OtherLanguage="useful" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-13T18:40:54.1017067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:47:30.7351067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:23:28.0759041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:14:45.2755039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="beschreiben" Text_OtherLanguage="to describe" Info="" Info_German="" Info_OtherLanguage="To say what sb or sth is like.">
+                <Result Correct="false" DateTime="2009-12-13T18:42:54.3553067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:43:36.0525067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-13T18:48:27.2647067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:49:34.6817067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:20:00.5797041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:12:27.1817039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:39:22.4533297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Ehefrau" Text_OtherLanguage="wife" Info="" Info_German="" Info_OtherLanguage="pl. wives">
+                <Result Correct="false" DateTime="2009-12-13T18:36:42.7487067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:41:02.5401067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:51:11.0333067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:22:33.1375041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:13:51.1647039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:40:20.9639297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Ehefrauen" Text_OtherLanguage="wives" Info="" Info_German="" Info_OtherLanguage="si. wife">
+                <Result Correct="false" DateTime="2009-12-13T18:38:48.4691067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:40:05.6519067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:45:48.5053067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:20:51.5569041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hinzufügen#addieren" Text_OtherLanguage="to add" Info="" Info_German="" Info_OtherLanguage="If you add 2 and 3, you get5.">
+                <Result Correct="true" DateTime="2009-12-13T18:38:42.0583067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-13T18:46:05.9603067+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:25:09.3105041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-21T15:15:13.9927039+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-01-07T19:41:29.6257297+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+            </Folder>
+            <Folder Title="A play" Language="" SymbolID="1">
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vor dem Haus" Text_OtherLanguage="in front of the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hinter dem Haus" Text_OtherLanguage="behind the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:12:09.9804982+02:00" Language_Assignment="false" Text_Answer="hinter dem Haus" Text_Assignment="behind the house" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="auf dem Tisch" Text_OtherLanguage="on the table" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="die Brücke über den Fluss" Text_OtherLanguage="the bridge across the river" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:41:10.7545041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:43:56.3543041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="ins Haus hinein" Text_OtherLanguage="into the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:37:45.4381041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:44:29.7359041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="aus dem Haus heraus" Text_OtherLanguage="out of the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="innerhalb des Kreises" Text_OtherLanguage="inside the circle" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="außerhalb des Kreises" Text_OtherLanguage="outside the circle" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:33:47.0207041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:34:13.4303041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:37:36.3601041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:40:04.8649041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-10-12T20:12:35.8272982+02:00" Language_Assignment="false" Text_Answer="außerhalb des Kreises" Text_Assignment="outside the circle" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="um den Kreis herum" Text_OtherLanguage="round the circle" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hindurch" Text_OtherLanguage="through" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="im Haus" Text_OtherLanguage="in the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-14T19:43:19.6343041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="zum Haus hin" Text_OtherLanguage="towards to the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:40:25.3921041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:43:33.8915041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:46:19.3507041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:45.9097041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:48.1943041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:53.3183041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:56.4987041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:58.1355041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:48:00.2091041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:48:05.9945041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:48:27.0677041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:48:40.6853041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vom Haus weg" Text_OtherLanguage="from the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:03:22.4542982+02:00" Language_Assignment="true" Text_Answer="from the house" Text_Assignment="vom Haus weg" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="am Haus vorbei" Text_OtherLanguage="by the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:37:12.0265041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:45:00.4809041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:45:23.1621041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="neben dem Hause" Text_OtherLanguage="next to the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="über dem Haus" Text_OtherLanguage="over the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-14T19:38:42.5485041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-10-12T20:03:10.1326982+02:00" Language_Assignment="true" Text_Answer="above the house" Text_Assignment="über dem Haus" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:03:28.1314982+02:00" Language_Assignment="false" Text_Answer="über dem Haus" Text_Assignment="over the house" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4645618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="zwischen zwei HäUserIDn" Text_OtherLanguage="between two houses" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="unter dem Haus" Text_OtherLanguage="under the house" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="nahe des Hauses#in der Nähe des Hauses" Text_OtherLanguage="near by the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:35:54.4365041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:41:59.0353041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:44:18.5207041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-10-12T20:10:51.9948982+02:00" Language_Assignment="false" Text_Answer="in der nähe des Hauses" Text_Assignment="near by the house" UserID="1" />
+                <Result Correct="false" DateTime="2010-10-12T20:11:14.8912982+02:00" Language_Assignment="true" Text_Answer="near the house" Text_Assignment="nahe des Hauses" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:13:07.0692982+02:00" Language_Assignment="false" Text_Answer="in der Nähe des Hauses" Text_Assignment="near by the house" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="oberhalb des Hauses" Text_OtherLanguage="above the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:36:07.9293041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:42:07.1003041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:41.7547041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:44.1419041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:49.6541041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:50.9583041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:52.1105041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:54.7261041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:48:01.7689041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:48:03.2941041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:48:23.8553041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="unterhalb des Hauses" Text_OtherLanguage="below the house" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:35:06.6105041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:44:37.9257041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:45:52.8319041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:46:56.1631041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vom Tisch hinunter" Text_OtherLanguage="off the table" Info="" Info_German="" Info_OtherLanguage="hinunter-, herunter-(fallen)">
+                <Result Correct="false" DateTime="2009-12-14T19:36:13.3881041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:40:18.2797041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-10-12T20:11:50.4692982+02:00" Language_Assignment="false" Text_Answer="vom Tisch hinunter" Text_Assignment="off the table" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="gegenüber von" Text_OtherLanguage="opposite" Info="" Info_German="" Info_OtherLanguage="A is opposite B.">
+                <Result Correct="false" DateTime="2009-12-14T19:36:25.6329041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:46:40.4239041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:47:31.0087041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-10-12T20:02:32.1048982+02:00" Language_Assignment="true" Text_Answer="" Text_Assignment="gegenüber von" UserID="1" />
+                <Result Correct="false" DateTime="2010-10-12T20:05:13.5236982+02:00" Language_Assignment="false" Text_Answer="gegenüber" Text_Assignment="opposite" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:05:20.2148982+02:00" Language_Assignment="false" Text_Answer="gegenüber von" Text_Assignment="opposite" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Fest(;ival)" Text_OtherLanguage="festival" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="erfinden" Text_OtherLanguage="to invent" Info="" Info_German="" Info_OtherLanguage="If you invent sth, you are the first person who thinks of it or makes it.">
+                <Result Correct="false" DateTime="2010-10-12T20:09:32.8176982+02:00" Language_Assignment="true" Text_Answer="to " Text_Assignment="erfinden" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:09:38.3856982+02:00" Language_Assignment="false" Text_Answer="erfinden" Text_Assignment="to invent" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Rolle" Text_OtherLanguage="part" Info="" Info_German="" Info_OtherLanguage="What partdid  you play in the musical?" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Charakter#Figur" Text_OtherLanguage="character" Info="" Info_German="" Info_OtherLanguage="A person in a story or play." />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Unterschied" Text_OtherLanguage="difference" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:04:15.9536982+02:00" Language_Assignment="true" Text_Answer="difference" Text_Assignment="Unterschied" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="verschieden" Text_OtherLanguage="different" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2009-12-14T19:39:44.3521041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Relativsatz ohne Relativpronomen" Text_OtherLanguage="contact clause" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="markiert" Text_OtherLanguage="marked" Info="" Info_German="" Info_OtherLanguage="to marked -&gt; marked">
+                <Result Correct="false" DateTime="2009-12-14T19:35:19.9161041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:35:37.2777041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:47:14.0071041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:47:22.3519041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Definition#Festlegung" Text_OtherLanguage="definition" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kreuzworträtsel" Text_OtherLanguage="crossword#crosssword puzzle" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Satz" Text_OtherLanguage="clause" Info="" Info_German="Teil eines Satzgefüges" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2010-10-12T20:11:55.6788982+02:00" Language_Assignment="true" Text_Answer="sentece" Text_Assignment="Satz" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:12:39.1176982+02:00" Language_Assignment="false" Text_Answer="Satz" Text_Assignment="clause" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Relativsatz" Text_OtherLanguage="relative clause" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Pronomen" Text_OtherLanguage="pronoun" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:09:19.1700982+02:00" Language_Assignment="true" Text_Answer="pronoun" Text_Assignment="Pronomen" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="relativ" Text_OtherLanguage="relative" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:40:35.7025041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:44:57.0969041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2010-10-12T20:09:55.0272982+02:00" Language_Assignment="false" Text_Answer="relativ" Text_Assignment="relative" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Relativpronomen" Text_OtherLanguage="relative pronoun" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Art#Sorte" Text_OtherLanguage="kind" Info="" Info_German="" Info_OtherLanguage="What kind of music do you like?" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="heiraten" Text_OtherLanguage="ti get married" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schließlich#zum Schluss" Text_OtherLanguage="in the end" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:47:03.6967041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:47:38.3239041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Mädchen" Text_OtherLanguage="maid" Info="" Info_German="Maid" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Maid" Text_OtherLanguage="maid" Info="" Info_German="Mädchen" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Appetit" Text_OtherLanguage="appetite" Info="" Info_German="" Info_OtherLanguage="People who have a big appetite eat a lot." />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bruder" Text_OtherLanguage="friar" Info="" Info_German="Mönch" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:38:50.9713041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:42:37.7363041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Mönch" Text_OtherLanguage="friar" Info="" Info_German="Bruder" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Langbogen" Text_OtherLanguage="longbow" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="der#dem#den#die#das" Text_OtherLanguage="which" Info="" Info_German="Relativpronomen" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="dessen#deren" Text_OtherLanguage="whose" Info="" Info_German="Relativpronomen" Info_OtherLanguage="David has a brother whose name is Mark.">
+                <Result Correct="false" DateTime="2010-10-12T20:09:04.2272982+02:00" Language_Assignment="true" Text_Answer="teir" Text_Assignment="dessen" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:09:43.0488982+02:00" Language_Assignment="false" Text_Answer="dessen" Text_Assignment="whose" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="fröhlich" Text_OtherLanguage="merry" Info="" Info_German="" Info_OtherLanguage="People who laugh a lot are merry." />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="der#dem#den#die" Text_OtherLanguage="who" Info="" Info_German="Relativpronomen" Info_OtherLanguage="0 is the girl who comes from Erlangen.">
+                <Result Correct="false" DateTime="2009-12-14T19:32:52.6245041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:33:14.8381041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-10-12T20:13:17.6916982+02:00" Language_Assignment="true" Text_Answer="their" Text_Assignment="die" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:13:26.2380982+02:00" Language_Assignment="true" Text_Answer="who" Text_Assignment="die" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="der#dem#den#die#das" Text_OtherLanguage="that" Info="" Info_German="Realtivpronomen" Info_OtherLanguage="Is 0 the girl that comes from Erlangen?">
+                <Result Correct="true" DateTime="2010-10-12T20:03:02.3016982+02:00" Language_Assignment="false" Text_Answer="das" Text_Assignment="that" UserID="1" />
+              </Word>
+            </Folder>
+            <Folder Title="---NAME NACHSCHAUEN---" Language="" SymbolID="1">
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Normanne#Normannin#normannisch" Text_OtherLanguage="Norman" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2009-12-14T19:39:25.3213041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2009-12-14T19:42:26.0219041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="true" DateTime="2009-12-14T19:42:51.6971041+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="3" />
+                <Result Correct="false" DateTime="2010-10-12T20:11:35.4008982+02:00" Language_Assignment="true" Text_Answer="normannian" Text_Assignment="normannisch" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:12:15.4864982+02:00" Language_Assignment="false" Text_Answer="normannisch" Text_Assignment="Norman" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="erobern" Text_OtherLanguage="to conquer" Info="" Info_German="" Info_OtherLanguage="The Normans conquered England in 1066." />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Sachse#Sächsin#sächsich" Text_OtherLanguage="Saxon" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kleinbauer" Text_OtherLanguage="peasant" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="populär#beliebt" Text_OtherLanguage="popular" Info="" Info_German="" Info_OtherLanguage="Everybody likes her - she's really popular." />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="jedenfalls#sowieso" Text_OtherLanguage="anyway" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schlimmer#schlechter" Text_OtherLanguage="worse" Info="" Info_German="" Info_OtherLanguage="good -&gt; worse -&gt; worst" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schlimmste#schlechteste" Text_OtherLanguage="worst" Info="" Info_German="" Info_OtherLanguage="best &lt;-&gt; worst">
+                <Result Correct="true" DateTime="2010-10-12T20:12:54.6840982+02:00" Language_Assignment="false" Text_Answer="schlechteste" Text_Assignment="worst" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Baby#Säugling" Text_OtherLanguage="baby" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Boss#Chef" Text_OtherLanguage="boss" Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+          <Folder Title="Unit 3" Language="" SymbolID="34">
+            <Folder Title="Intro" Language="" SymbolID="1">
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="klingen" Text_OtherLanguage="to sound" Info="" Info_German="Your music ... so good." Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-01-25T16:59:16.9433075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Hip-Hop" Text_OtherLanguage="hip-hop" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-01-25T16:57:42.3163075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Jazz" Text_OtherLanguage="jazz" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-01-25T16:57:34.4551075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Rock" Text_OtherLanguage="rock" Info="" Info_German="Musik" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="heutzutage" Text_OtherLanguage="these days" Info="" Info_German="Now, not in past." Info_OtherLanguage="Now, not in past.">
+                <Result Correct="false" DateTime="2010-01-25T16:56:47.5617075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+                <Result Correct="false" DateTime="2010-01-25T16:59:39.9363075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+                <Result Correct="false" DateTime="2010-01-25T16:59:45.2547075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+                <Result Correct="true" DateTime="2010-01-25T16:59:53.4435075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Klavier#Piano" Text_OtherLanguage="piano" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Techno" Text_OtherLanguage="techno" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-01-25T16:56:40.0137075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="scharf sein auf;begeistert sein von" Text_OtherLanguage="to be keen on" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2010-01-25T16:57:54.6079075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+                <Result Correct="true" DateTime="2010-01-25T16:59:27.2391075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+                <Result Correct="false" DateTime="2010-10-12T20:09:14.5064982+02:00" Language_Assignment="true" Text_Answer="" Text_Assignment="scharf sein auf;begeistert sein von" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:09:25.7364982+02:00" Language_Assignment="true" Text_Answer="to be keen on" Text_Assignment="scharf sein auf;begeistert sein von" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4655618+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Sänger(in;)" Text_OtherLanguage="singer" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-01-25T16:57:28.9953075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+                <Result Correct="false" DateTime="2010-10-12T20:03:34.1830982+02:00" Language_Assignment="true" Text_Answer="" Text_Assignment="Sängerin" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:03:39.5014982+02:00" Language_Assignment="false" Text_Answer="Sängerin" Text_Assignment="singer" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="scheinen" Text_OtherLanguage="to seem" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-01-25T16:56:35.1009075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="erste Division" Text_OtherLanguage="Premiership" Info="" Info_German="vgl. Deutsche Bundesliga" Info_OtherLanguage="vgl. Deutsche Bundesliga">
+                <Result Correct="true" DateTime="2010-01-25T16:58:09.1937075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bass" Text_OtherLanguage="bass" Info="" Info_German="reimt sich mit 'face'" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-01-25T16:56:44.4585075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:02:26.5208982+02:00" Language_Assignment="true" Text_Answer="bass" Text_Assignment="Bass" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Trommel" Text_OtherLanguage="drum" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:04:29.2580982+02:00" Language_Assignment="false" Text_Answer="Trommel" Text_Assignment="drum" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:11:28.8656982+02:00" Language_Assignment="true" Text_Answer="drum" Text_Assignment="Trommel" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Schlagzeug" Text_OtherLanguage="drums" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="am meisten" Text_OtherLanguage="most of all" Info="" Info_German="More than other things." Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="nennen" Text_OtherLanguage="to call" Info="" Info_German="" Info_OtherLanguage="You can call me Mike." />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Hit" Text_OtherLanguage="hit" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="heißen#genannt werden" Text_OtherLanguage="to be called" Info="" Info_German="" Info_OtherLanguage="The dog is called Barker." />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="ganz" Text_OtherLanguage="whole" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="ausfüllen" Text_OtherLanguage="to fill in" Info="" Info_German="" Info_OtherLanguage="to complete" />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Stück" Text_OtherLanguage="piece" Info="" Info_German="A piece of cake." Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:12:03.8196982+02:00" Language_Assignment="false" Text_Answer="Stück" Text_Assignment="piece" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="zweimal" Text_OtherLanguage="twice" Info="" Info_German="" Info_OtherLanguage="two times">
+                <Result Correct="false" DateTime="2010-10-12T20:02:37.0960982+02:00" Language_Assignment="true" Text_Answer="two times" Text_Assignment="zweimal" UserID="1" />
+                <Result Correct="false" DateTime="2010-10-12T20:02:57.6384982+02:00" Language_Assignment="false" Text_Answer="Zweimal" Text_Assignment="twice" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:03:14.4058982+02:00" Language_Assignment="true" Text_Answer="twice" Text_Assignment="zweimal" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="allgemein" Text_OtherLanguage="general" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Detail#Einzelheit" Text_OtherLanguage="detail" Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+          <Folder Title="Focus 2 - Focus on food and drink" Language="" SymbolID="34">
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Vorspeise" Text_OtherLanguage="starter" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Tomate" Text_OtherLanguage="tomato" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Tomaten" Text_OtherLanguage="tomatoes" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:43:44.3451075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Suppe" Text_OtherLanguage="soup" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-10-12T20:02:47.0952982+02:00" Language_Assignment="false" Text_Answer="Suppe" Text_Assignment="soup" UserID="1" />
+              <Result Correct="true" DateTime="2010-10-12T20:09:58.4268982+02:00" Language_Assignment="false" Text_Answer="Suppe" Text_Assignment="soup" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="gemischt" Text_OtherLanguage="mixed" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-10-12T20:02:41.3848982+02:00" Language_Assignment="true" Text_Answer="mixed" Text_Assignment="gemischt" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Salat" Text_OtherLanguage="salad" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:43:03.5413075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Schinken" Text_OtherLanguage="ham" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:44:22.8395075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              <Result Correct="true" DateTime="2010-10-12T20:09:47.5716982+02:00" Language_Assignment="false" Text_Answer="Schinken" Text_Assignment="ham" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Nudeln" Text_OtherLanguage="pasta" Info="" Info_German="Pasta" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-10-12T20:13:22.3860982+02:00" Language_Assignment="false" Text_Answer="Nudeln" Text_Assignment="pasta" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Haupt-" Text_OtherLanguage="main" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:44:57.7185075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Gang" Text_OtherLanguage="course" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Steak" Text_OtherLanguage="steak" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Gericht" Text_OtherLanguage="dish" Info="" Info_German="Speise" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:41:50.4663075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              <Result Correct="false" DateTime="2010-10-12T20:04:47.9120982+02:00" Language_Assignment="false" Text_Answer="Gang" Text_Assignment="dish" UserID="1" />
+              <Result Correct="true" DateTime="2010-10-12T20:04:53.3864982+02:00" Language_Assignment="true" Text_Answer="dish" Text_Assignment="Gericht" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kartoffel" Text_OtherLanguage="potato" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:44:40.7159075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kartoffeln" Text_OtherLanguage="potatoes" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Reis" Text_OtherLanguage="rice" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Nachspeise" Text_OtherLanguage="dessert" Info="" Info_German="Dessert" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Obst" Text_OtherLanguage="fruit" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:42:16.6395075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Curry" Text_OtherLanguage="curry" Info="" Info_German="Gewürz o. Gericht" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:43:19.4353075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="köstlich" Text_OtherLanguage="delicious" Info="" Info_German="" Info_OtherLanguage="Yammy!" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="traditionell" Text_OtherLanguage="traditional" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-10-12T20:10:06.6156982+02:00" Language_Assignment="true" Text_Answer="traditional" Text_Assignment="traditionell" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="in der Pfanne gebraten" Text_OtherLanguage="fried" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="false" DateTime="2010-01-25T16:42:18.5399075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              <Result Correct="true" DateTime="2010-01-25T16:42:30.1935075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Spiegelei" Text_OtherLanguage="fried egg" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Schinkenspeck" Text_OtherLanguage="bacon" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wurst" Text_OtherLanguage="sausage" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-10-12T20:03:47.8460982+02:00" Language_Assignment="false" Text_Answer="Wurst" Text_Assignment="sausage" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Vegetarier(;in)" Text_OtherLanguage="vegetarian" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Toast" Text_OtherLanguage="toast" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Butter" Text_OtherLanguage="butter" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Marmelade" Text_OtherLanguage="marmelade" Info="" Info_German="von Zitrusfrüchten" Info_OtherLanguage="">
+              <Result Correct="false" DateTime="2010-01-25T16:44:02.1891075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              <Result Correct="true" DateTime="2010-01-25T16:44:49.9811075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Orange" Text_OtherLanguage="orange" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:43:07.3777075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Saft" Text_OtherLanguage="juice" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:43:38.4179075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Erdbeere" Text_OtherLanguage="strawberry" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="false" DateTime="2010-01-25T16:42:11.5863075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              <Result Correct="true" DateTime="2010-01-25T16:43:33.7079075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              <Result Correct="true" DateTime="2010-10-12T20:11:03.9264982+02:00" Language_Assignment="false" Text_Answer="Erdbeere" Text_Assignment="strawberry" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Marmelade" Text_OtherLanguage="jam" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="hergestellt sein aus" Text_OtherLanguage="to be made of" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="schmecken" Text_OtherLanguage="to taste" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:42:44.4651075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="bitter" Text_OtherLanguage="bitter" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:43:48.1659075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="bediene( dich;n Sie sich)" Text_OtherLanguage="help yourself" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:42:58.6753075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Joghurt" Text_OtherLanguage="yoghurt" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="essen#trinken" Text_OtherLanguage="to have" Info="" Info_German="" Info_OtherLanguage="...breakfast, ...an egg, ...some orange juice">
+              <Result Correct="true" DateTime="2010-01-25T16:42:01.9935075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+              <Result Correct="false" DateTime="2010-10-12T20:12:19.2458982+02:00" Language_Assignment="false" Text_Answer="haben" Text_Assignment="to have" UserID="1" />
+              <Result Correct="true" DateTime="2010-10-12T20:13:33.0550982+02:00" Language_Assignment="true" Text_Answer="to have" Text_Assignment="essen" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Brötchen" Text_OtherLanguage="roll" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Kellner#Bedienung" Text_OtherLanguage="waiter" Info="" Info_German="" Info_OtherLanguage="The man who brings you your food in a restaurant.">
+              <Result Correct="true" DateTime="2010-01-25T16:43:23.1625075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="bestellen" Text_OtherLanguage="to order" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:42:34.9035075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Fleisch" Text_OtherLanguage="meat" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wein" Text_OtherLanguage="wine" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Bier" Text_OtherLanguage="beer" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-10-12T20:02:51.0564982+02:00" Language_Assignment="true" Text_Answer="beer" Text_Assignment="Bier" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Speisekarte#Menü" Text_OtherLanguage="menu" Info="" Info_German="" Info_OtherLanguage="" />
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Restaurant, das Speisen zum Mitnehmen verkauft" Text_OtherLanguage="takeaway" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="false" DateTime="2010-10-12T20:12:26.3114982+02:00" Language_Assignment="false" Text_Answer="Restaurant" Text_Assignment="takeaway" UserID="1" />
+              <Result Correct="true" DateTime="2010-10-12T20:13:38.2954982+02:00" Language_Assignment="true" Text_Answer="takeaway" Text_Assignment="Restaurant, das Speisen zum Mitnehmen verkauft" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Fliege" Text_OtherLanguage="fly" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-01-25T16:42:48.1299075+01:00" Language_Assignment="false" Text_Answer="---" Text_Assignment="---" UserID="1" />
+            </Word>
+            <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="töten" Text_OtherLanguage="to kill" Info="" Info_German="" Info_OtherLanguage="">
+              <Result Correct="true" DateTime="2010-10-12T20:11:20.8340982+02:00" Language_Assignment="false" Text_Answer="töten" Text_Assignment="to kill" UserID="1" />
+            </Word>
+          </Folder>
+        </Folder>
+        <Folder Title="6" Language="" SymbolID="3">
+          <Folder Title="01 Topic 1: Growing up" Language="" SymbolID="1">
+            <Folder Title="01 A: Responsibility only comes with age?" Language="" SymbolID="2">
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Minimum#Mindestmaß#minimal" Text_OtherLanguage="minimum" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4665619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Limit#Grenze#Beschränkung" Text_OtherLanguage="limit" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Zustimmung#Einwilligung" Text_OtherLanguage="consent" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="false" DateTime="2010-10-12T20:04:01.9928982+02:00" Language_Assignment="false" Text_Answer="Einwilligung" Text_Assignment="consent" UserID="1" />
+                <Result Correct="true" DateTime="2010-10-12T20:05:31.6172982+02:00" Language_Assignment="false" Text_Answer="Zustimmung;Einwilligung" Text_Assignment="consent" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Heirat#Ehe" Text_OtherLanguage="marriage" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="elterlich#Eltern-" Text_OtherLanguage="parental" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Wahl" Text_OtherLanguage="election" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="kriminell#verbrecherisch" Text_OtherLanguage="criminal" Info="" Info_German="" Info_OtherLanguage="">
+                <Result Correct="true" DateTime="2010-10-12T20:11:25.3412982+02:00" Language_Assignment="true" Text_Answer="criminal" Text_Assignment="verbrecherisch" UserID="1" />
+              </Word>
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="Spirituosen" Text_OtherLanguage="spirits" Info="" Info_German="" Info_OtherLanguage="(pl.)" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="verpflichtend#obligatorisch" Text_OtherLanguage="compulsory" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="vorausgesetzt, dass ..." Text_OtherLanguage="provided that ..." Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="jmdn verklagen" Text_OtherLanguage="to take sb to court" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="kaufen#erwerben" Text_OtherLanguage="to purchase" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="sich unterscheiden#abweichen" Text_OtherLanguage="to differ" Info="" Info_German="" Info_OtherLanguage="" />
+              <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-05-18T14:50:25.6306076+02:00" Text_German="konsumieren#verbrauchen" Text_OtherLanguage="to consume" Info="" Info_German="" Info_OtherLanguage="" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Folder Title="3" Language="" SymbolID="3" />
+        <Folder Title="7" Language="" SymbolID="3">
+          <Folder Title="05 Religion in the US and UK" Language="" SymbolID="0">
+            <Folder Title="Thematic vocabulary" Language="" SymbolID="0">
+              <Folder Title="Religion in the US" Language="" SymbolID="0">
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:39:29.5772982+02:00" Text_German="Abtreibung" Text_OtherLanguage="abortion" Info="Act of ending a pregnancy so that the baby is not born alive; There are many anti-abortion campaigners on the religious right." Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:40:26.5484982+02:00" Text_German="Agenda" Text_OtherLanguage="agenda" Info="" Info_German="" Info_OtherLanguage="">
+                  <Result Correct="true" DateTime="2010-10-12T20:11:59.9676982+02:00" Language_Assignment="false" Text_Answer="Agenda" Text_Assignment="agenda" UserID="1" />
+                </Word>
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:40:35.0660982+02:00" Text_German="Zusatzartikel" Text_OtherLanguage="amendment" Info="" Info_German="in einer Verfassung; einem Gesetz" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:41:15.4376982+02:00" Text_German="Teil#Zweig(;stelle)" Text_OtherLanguage="branch" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:41:44.0312982+02:00" Text_German="Wohltätigkeitsorganisation" Text_OtherLanguage="charity" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:42:02.6876982+02:00" Text_German="städtisch#Stadt-" Text_OtherLanguage="civic" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:43:42.7760982+02:00" Text_German="Mitgefühl#mitfühlend" Text_OtherLanguage="compassion" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:44:07.7348982+02:00" Text_German="Vorstellung#Prinzip" Text_OtherLanguage="concept" Info="" Info_German="" Info_OtherLanguage="">
+                  <Result Correct="false" DateTime="2010-10-12T20:10:42.0432982+02:00" Language_Assignment="false" Text_Answer="Konzept" Text_Assignment="concept" UserID="1" />
+                  <Result Correct="true" DateTime="2010-10-12T20:12:48.1956982+02:00" Language_Assignment="false" Text_Answer="Prinzip" Text_Assignment="concept" UserID="1" />
+                </Word>
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:45:03.2384982+02:00" Text_German="durchführen" Text_OtherLanguage="to conduct" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:45:40.7084982+02:00" Text_German="Gewissen" Text_OtherLanguage="conscience" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:45:51.5024982+02:00" Text_German="konvertieren" Text_OtherLanguage="to convert" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:46:07.3044982+02:00" Text_German="Kreationismus#Schöpfungslehre" Text_OtherLanguage="creationism" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:46:34.4472982+02:00" Text_German="(;eine Rede) halten#liefern" Text_OtherLanguage="to deliver" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:47:24.0852982+02:00" Text_German="Konfessionsgemeinschaft" Text_OtherLanguage="denomination" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:47:44.3172982+02:00" Text_German="jdn(;.) diskriminieren" Text_OtherLanguage="to discriminate against sb" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:48:21.5220982+02:00" Text_German="Vielfalt" Text_OtherLanguage="diversity" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:48:45.7944982+02:00" Text_German="göttlich" Text_OtherLanguage="divine" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:48:52.8756982+02:00" Text_German="betonen" Text_OtherLanguage="to emphasize" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:49:04.0128982+02:00" Text_German="gleich" Text_OtherLanguage="equal" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:49:18.7536982+02:00" Text_German="wichtig#unverzichtbar" Text_OtherLanguage="essential" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:49:36.5020982+02:00" Text_German="verbieten" Text_OtherLanguage="to forbid" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:49:47.6860982+02:00" Text_German="Fundamentalismus" Text_OtherLanguage="fundalism" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:49:58.6516982+02:00" Text_German="zu Hause unterrichtet werden" Text_OtherLanguage="to be homeschooled" Info="" Info_German="" Info_OtherLanguage="">
+                  <Result Correct="true" DateTime="2010-10-12T20:04:37.0880982+02:00" Language_Assignment="true" Text_Answer="to be homeschooled" Text_Assignment="zu Hause unterrichtet werden" UserID="1" />
+                </Word>
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:50:28.0408982+02:00" Text_German="Antrittsrede" Text_OtherLanguage="inaugural adress" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:50:53.9356982+02:00" Text_German="Angelegenheit" Text_OtherLanguage="issue" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:51:40.1264982+02:00" Text_German="wörtlich" Text_OtherLanguage="literal" Info="" Info_German="" Info_OtherLanguage="">
+                  <Result Correct="true" DateTime="2010-10-12T20:08:54.8072982+02:00" Language_Assignment="false" Text_Answer="wörtlich" Text_Assignment="literal" UserID="1" />
+                </Word>
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:52:02.5736982+02:00" Text_German="seinen Einfluss geltend machen" Text_OtherLanguage="to lobby" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:52:20.7776982+02:00" Text_German="engstirnig" Text_OtherLanguage="narrow-minded" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:52:35.2376982+02:00" Text_German="mit jdm(;.) über etw(;.) verhandeln" Text_OtherLanguage="to negotiate with sb for sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:56:51.9812982+02:00" Text_German="Wahrnehmung#Auffassung" Text_OtherLanguage="perception" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:57:28.6256982+02:00" Text_German="jdn(;.) wegen etw(.;) (verfolgen;unterdrücken)" Text_OtherLanguage="to persecute sb for sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:58:18.5132982+02:00" Text_German="jdn(;.) verbieten, etw(;.) zu tun" Text_OtherLanguage="to prohibit sb from doing sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:59:23.4860982+02:00" Text_German="Wurzel" Text_OtherLanguage="root" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:59:30.3800982+02:00" Text_German="ländlich" Text_OtherLanguage="rural" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:59:38.0852982+02:00" Text_German="etw(;.) suchen" Text_OtherLanguage="to seek sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T19:59:49.7850982+02:00" Text_German="jdn(;.) wegen etw(;.) verklagen" Text_OtherLanguage="to sue sb for sth" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T20:00:12.7938982+02:00" Text_German="einzigartig" Text_OtherLanguage="unique" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T20:00:22.3554982+02:00" Text_German="aufrechterhalten#wahren" Text_OtherLanguage="to uphold" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T20:00:40.1070982+02:00" Text_German="freiwillig" Text_OtherLanguage="voluntary" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T20:00:52.9134982+02:00" Text_German="vergeuden#verschwenden" Text_OtherLanguage="to waste" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T20:01:12.1948982+02:00" Text_German="Sozialhilfe" Text_OtherLanguage="welfare" Info="" Info_German="" Info_OtherLanguage="" />
+                <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-12T20:01:27.7468982+02:00" Text_German="Anbetung#Gottesdienst" Text_OtherLanguage="worship" Info="" Info_German="" Info_OtherLanguage="">
+                  <Result Correct="true" DateTime="2010-10-12T20:05:07.8152982+02:00" Language_Assignment="true" Text_Answer="worship" Text_Assignment="Gottesdienst" UserID="1" />
+                </Word>
+              </Folder>
+            </Folder>
+          </Folder>
+        </Folder>
+      </Folder>
+      <Word Date_Changed="2012-10-04T18:23:55.4675619+02:00" Date_Created="2010-10-20T13:51:05.3522+02:00" Text_German="" Text_OtherLanguage="Best(f" Info="" Info_German="" Info_OtherLanguage="" />
+    </Folder>
+  </DATA>
+</ROOT>
